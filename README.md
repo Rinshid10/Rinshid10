@@ -42,8 +42,8 @@
 
 </table>
 
-<h1 align="center">Hi 👋, I'm Salman Faris</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h1 align="center">Hi 👋, I'm Rinshid</h1>
+<h3 align="center">A passionate Flutter Developer</h3>
 ### 🔥 &nbsp; My Stats :
 
 
@@ -60,13 +60,12 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://salmanfaris22.github.io/salmanfaris/](https://salmanfaris22.github.io/salmanfaris/)
 
-- 💬 Ask me about **MERN , GOlang**
+- 💬 Ask me about **Flutter **
 
-- 📫 How to reach me **salmanfariskalm@gmail.com**
+- 📫 How to reach me **rinshidch10@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny**
 <h3 align="left">Connect with me:</h3>
