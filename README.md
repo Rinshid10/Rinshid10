@@ -2,30 +2,6 @@
  <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-   <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
-      <br>Gin
-    </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
-      <br>REST API
-    </td>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
-      <br>Redux Toolkit
-    </td>
-    <td align="center" width="96">
-        <img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" width="48" height="48" alt="PostgreSQL" />
-      <br>Golang
-    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -52,32 +28,7 @@
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <br>C
-    </td>
      </td>
-      <td align="center" width="96">
-       <img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" alt="icon" width="62" height="62" />
-      <br>JIRA
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" height="62" />
-      <br>Prettier
-    </td>    
- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-      </td>
-     <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      <br>Postman
-    </td>
-    </td>
     </td>
  </tr>
 
