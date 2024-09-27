@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96"> 
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*zY_BLFanOTOBS0G3QD3FDA.gif" width="48" height="48" alt="Git" />
+        <img src="https://roszkowski.dev/images/2020-05-04/flutter_logo_leg.gif" width="48" height="48" alt="Git" />
       <br>Flutter
     </td>
     <td align="center" width="96"> 
