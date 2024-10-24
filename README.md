@@ -60,11 +60,7 @@
 
 
 
-### 📈 GitHub Stats:
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rinshidch10&show_icons=true&locale=en" alt="Rinshid" width="33%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinshidch10&" alt="rinshid" width="33%" />
-   
-</p> 
+
+
