@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinshid 
-<img src="sandbox:/mnt/data/A_detailed_illustration_showcasing_various_mobile_.png" alt="Mobile App Programming Applications">
+<img src="file:///C:/Users/USER/Downloads/DALL%C2%B7E%202024-10-24%2019.48.31%20-%20A%20detailed%20illustration%20showcasing%20various%20mobile%20app%20programming%20applications.%20The%20image%20features%20icons%20or%20representations%20of%20popular%20frameworks%20and%20.webp" alt="Mobile App Programming Applications">
 
 
 
