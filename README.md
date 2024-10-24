@@ -1,5 +1,6 @@
 # Hi 👋, I'm Rinshid 
-<img src="img.webp" alt="Description" class="inline-image">
+<img src="sandbox:/mnt/data/A_detailed_illustration_showcasing_various_mobile_.png" alt="Mobile App Programming Applications">
+
 
 
 ### A Passionate Flutter Developer with a Love for UI Magic! ✨
