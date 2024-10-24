@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/flutter-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-technology-development-codebase-pack-logos-icons-8922302.mp4" alt="Flutter" width="65" /><br>Flutter</td>
-    <td align="center"><img src="[https://raw.githubusercontent.com/gin-gonic/logo/master/color.png](https://m.media-amazon.com/images/I/51z07YgHRBL.jpg)" alt="Dart" width="65" /><br>Dart</td>
+    <td align="center"><img src="https://codewithandrea.com/img/banners/dart-course-banner-small.png" alt="Dart" width="65" /><br>Dart</td>
      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="NodeJs" width="62" /><br>NodeJs</td>
      <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" /><br>CSS</td>
      <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
