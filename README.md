@@ -51,12 +51,7 @@
   <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" /><br>Figma</td>
   <td align="center"><img src="https://camo.githubusercontent.com/8ac99a8f9df10832e35eb2fb7fad603424fa19b103551cdebf76cbae20d9ef0c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" 
       alt="Figma" width="40" /><br>PostgreSQL</td>
-  <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" /><br>Git</td>
-  <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Git" width="48" /><br>ChartJs</td>
-  <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" alt="Git" width="48" /><br>React Query</td>
-  <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" alt="Git" width="48" /><br>GoLand</td>
-  <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="Git" width="48" /><br>N P M</td> 
-       <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="Git" width="48" /><br>TanStack</td> 
+  
   </tr>
 </table>
 
@@ -64,11 +59,12 @@
 
 
 
+
 ### 📈 GitHub Stats:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" width="33%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" width="33%" />
-    <img src="https://leetcard.jacoblin.cool/salman567633800?font=patrick_hand" alt="LeetCode Stats" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rinshidch10&show_icons=true&locale=en" alt="Rinshid" width="33%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rinshidch10&" alt="rinshid" width="33%" />
+   
 </p> 
