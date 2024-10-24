@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinshid 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE-JH8eM3Pf5Mz9dDtWU4_Ywt1ITmQVVdZg&s" alt="Mobile App Programming Applications"  width="500">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE-JH8eM3Pf5Mz9dDtWU4_Ywt1ITmQVVdZg&s" alt="Mobile App Programming Applications"  width="100%">
 
 
 
