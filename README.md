@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinshid 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+<img src="DALL·E 2024-10-24 19.48.31 - A detailed illustration showcasing various mobile app programming applications. The image features icons or representations of popular frameworks and .png" alt="Figma" width="40" />
  
 
 
