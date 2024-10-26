@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rinshid 
-<img src="DALL·E 2024-10-24 19.48.31 - A detailed illustration showcasing various mobile app programming applications. The image features icons or representations of popular frameworks and .png"  />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
  
 
 
