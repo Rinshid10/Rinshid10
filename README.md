@@ -1,4 +1,5 @@
 # Hi 👋, I'm Rinshid 
+- <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
 
  
@@ -16,7 +17,7 @@
 - 💬 Let's chat about Flutter   and Dart go-to technologies for building robust applications.
 - 📫 Reach out to me at: rinshidch10@gmail.com—I'm always up for a good conversation!
 - ⚡ Fun fact: I think I'm funny, and I promise my code is less of a joke than I am!
-- <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+
 
 
 
