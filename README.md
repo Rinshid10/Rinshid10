@@ -1,4 +1,5 @@
 # Hi 👋, I'm Rinshid 
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 
  
 
